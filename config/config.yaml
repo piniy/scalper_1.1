@@ -1,0 +1,8 @@
+# config.yaml
+exchange:
+  name: binance
+  api_key: ${BINANCE_API_KEY}
+  api_secret: ${BINANCE_API_SECRET}
+data:
+  timeframe: 1h
+  symbol: BTC/USDT
